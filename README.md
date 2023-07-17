@@ -66,7 +66,6 @@ void loop() {
   }
 
   if (bVal == 0 and counter == 1) {
-    
     Serial.println("Fan");
     
     
